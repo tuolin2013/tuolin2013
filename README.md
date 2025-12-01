@@ -47,7 +47,7 @@ Gemini 风格 UI · 完美修复微信表格样式 · 一键复制富文本
 <!-- 你的 GitHub 统计卡片 (自动生成) -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtuolin2013%26show_icons%3Dtrue%26theme%3Dgotham%26hide_border%3Dtrue%26count_private%3Dtrue" height="150" alt="stats" />
 ​<!-- 你的常用语言统计 -->
-​<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtuolin2013%26layout%3Dcompact%26theme%3Dgotham%26hide_border%3Dtrue%26langs_count%3D6" height="150" alt="languages" />
+​<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtuolin2013%26layout%3Dcompact%26theme%3Dgotham%26hide_border%3Dtrue%26langs_count%3D6" height="150" alt="languages" />8
 </div>
 ​<div align="center">
 <!-- 连续打卡统计 -->
@@ -65,7 +65,7 @@ Gemini 风格 UI · 完美修复微信表格样式 · 一键复制富文本
 <p>关注我的公众号，获取最新技术干货与 MarkdownWeaver 更新！</p>
 ​<!-- 这里非常重要！替换为你自己的公众号二维码图片链接 -->
 ​<!-- 你可以把二维码图片上传到这个仓库里，然后引用它 -->
-​<img src="https://www.google.com/search?q=https://via.placeholder.com/150x150.png%3Ftext%3DWeChat%2BQR" width="150" alt="公众号二维码">
+​<img src="https://github.com/tuolin2013/tuolin2013/blob/main/qrcode.jpg" width="150" alt="公众号二维码">
 ​<p>👆 扫码关注 👆</p>
 </div>## Hi there 👋
 
