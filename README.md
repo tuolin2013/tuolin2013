@@ -6,8 +6,6 @@
 </p>
 ​<p>
 我是一名热爱技术的自媒体人。致力于通过代码解决写作痛点，让创作更自由。
-
-
 <i>"I build tools to make writing elegant again."</i>
 </p>
 ​<!-- 社交媒体/联系方式徽章 -->
@@ -25,9 +23,9 @@
 </div>
 ​🔥 Featured Project: MarkdownWeaver
 ​<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/tuolin2013/MarkdownWeaver">
+<a href="https://github.com/tuolin2013/MarkdownWeaver">
 <!-- 这里建议放 MarkdownWeaver 的图标链接 -->
-<img src="https://www.google.com/search?q=https://github.com/tuolin2013/MarkdownWeaver/blob/main/app/src/main/res/drawable/ic_launcher.png%3Fraw%3Dtrue" width="80" height="80" style="border-radius:15px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+<img src="https://github.com/tuolin2013/MarkdownWeaver/blob/main/app/src/main/res/drawable/ic_launcher.png" width="80" height="80" style="border-radius:15px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </a>
 ​<h3>
 <a href="https://www.google.com/search?q=https://github.com/tuolin2013/MarkdownWeaver">MarkdownWeaver (安卓公众号排版神器)</a>
